@@ -56,23 +56,6 @@
 * place_country: US
  
 
-### stocktwits apps: https://api.stocktwits.com/developers/apps
-
-* mlproj
-
-OAuth settings
-Your application's OAuth settings. Keep the "Consumer secret" a secret. This key should never be human-readable in your application.
-
-Site domain: aprestos.org
-
-Consumer key: d5ee78c963620182
-
-Consumer secret: 4419c9ff88ecdb91072fbf389dcd68b0486dc290
-
-Request token URL: https://api.stocktwits.com/api/2/oauth/token
-
-Authorize URL: https://api.stocktwits.com/api/2/oauth/authorize
-
 
 
 
