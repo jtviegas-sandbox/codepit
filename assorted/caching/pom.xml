@@ -28,7 +28,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<spring.version>3.2.3.RELEASE</spring.version>
+		<spring.version>5.2.9.RELEASE</spring.version>
 		<hibernate.version>4.1.0.Final</hibernate.version>
 		<querydsl.version>2.9.0</querydsl.version>
 		<scripts.path>${basedir}/scripts</scripts.path>
