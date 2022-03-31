@@ -68,7 +68,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-core</artifactId>
-			<version>3.2.2.RELEASE</version>
+			<version>5.3.18</version>
 		</dependency>
 		<!-- <dependency> <groupId>org.apache.derby</groupId> <artifactId>derbyclient</artifactId> 
 			<version>10.8.2.2</version> <scope>test</scope> </dependency> -->
