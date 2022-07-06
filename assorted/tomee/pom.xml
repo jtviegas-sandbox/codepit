@@ -1450,7 +1450,7 @@
       <dependency>
         <groupId>org.apache.ws.security</groupId>
         <artifactId>wss4j</artifactId>
-        <version>1.6.13</version>
+        <version>1.6.17</version>
         <exclusions>
           <exclusion>
             <artifactId>commons-logging</artifactId>
